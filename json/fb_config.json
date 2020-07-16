@@ -1,11 +1,12 @@
 {
-    "apiKey": "AIzaSyC_pcF7rhOAWSzFkh7beY9zIxUqZ5a2fQY",
-    "authDomain": "mn-covid-19-project.firebaseapp.com",
-    "databaseURL": "https://mn-covid-19-project.firebaseio.com",
-    "projectId": "mn-covid-19-project",
-    "storageBucket": "mn-covid-19-project.appspot.com",
-    "messagingSenderId": "748236560240",
-    "appId": "1:748236560240:web:08da84c2a6e5393e8921b5"
+  "apiKey": "AIzaSyB5efHzB1ssXZMG8w9ZyuxCBJpO_YaDZdo",
+  "authDomain": "ml-covid-19-project.firebaseapp.com",
+  "databaseURL": "https://ml-covid-19-project.firebaseio.com",
+  "projectId": "ml-covid-19-project",
+  "storageBucket": "ml-covid-19-project.appspot.com",
+  "messagingSenderId": "456754864115",
+  "appId": "1:456754864115:web:0e636ffa1b9f9929843c86"
+
 
 
   }
